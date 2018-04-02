@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Procom17IUAppDevelopers</string>
+
+    <string name="welcome">Welcome To Mobile-Guru</string>\
+    <string name="dree">Degree Programs</string>
+    <string name="bscs">BS-CS</string>
+    <string name="bsee">BS-EE</string>
+    <string name="bba">BBA</string>
+
+    <string name="id">UserName</string>
+    <string name="pass">Password</string>
+
+    <string name="hint1">Enter admin </string>
+    <string name="hint2">Enter password</string>
+
+    <string name="verif">Proceed</string>
+    <string name="logout">Logout</string>
+
+    <string name="cs">Computer Science</string>
+    <string name="ee">Electrical Engineering</string>
+    <string name="ba">Business</string>
+
+    <string name="cr">Add New Course</string>
+
+    <string name="cn">Course Name</string>
+    <string name="ch">Credit Hour</string>
+    <string name="fa">Faculty</string>
+</resources>
